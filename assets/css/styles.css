@@ -7,6 +7,7 @@
     --secondary-color: #111111;
     --primary-font: 'Poppins', sans-serif;
     --secondary-font: 'Overpass', sans-serif;
+    
 }
 
 /* RESET DEFAULT STYLES */
@@ -14,6 +15,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #ffffff;
 }
 
 a {
