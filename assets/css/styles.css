@@ -513,6 +513,11 @@ button#prev {
     .testis {
         margin-top: 20px;
     }
+
+    .testimonial-container p{
+        font-size: 1rem;
+    }
+    
 }
 
 /* CONTACT */
